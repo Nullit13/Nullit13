@@ -67,7 +67,7 @@ My main stack revolves around JavaScript, React, Node.js, Express, and MongoDB, 
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/Nullit_">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
