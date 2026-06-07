@@ -1,88 +1,106 @@
-# Hi 👋, I'm Adam
+<div align="center">
 
-### Full-Stack Web Developer
+# Hey 👋 I'm Adam
 
-I'm a passionate developer who enjoys building modern web applications, real-time systems, and practical tools that solve real problems.
+### Full-Stack Developer • React Developer • Problem Solver
+
+Building modern web applications with JavaScript, React, Node.js, and MongoDB.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+Developer;Node.js+%2B+MongoDB;Always+Building+Something+Cool" alt="Typing SVG" />
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- 🌱 Constantly learning and improving my development skills
-- 💻 Focused on full-stack JavaScript development
-- ⚡ Interested in web applications, real-time communication, and scalable backend systems
-- 🎯 Goal: Build projects that are useful, fast, and enjoyable to use
+```js
+const adam = {
+    location: "Earth 🌍",
+    role: "Full-Stack Developer",
+    frontend: ["React", "HTML", "CSS", "Bootstrap", "JavaScript"],
+    backend: ["Node.js", "Express.js", "Socket.io"],
+    database: ["MongoDB"],
+    languages: ["JavaScript", "Python", "C++"],
+    deployment: ["Render", "Netlify", "GitHub Pages"],
+    currentlyLearning: ["Advanced React", "Backend Architecture"],
+};
+```
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Programming Languages
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Templating
-![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge)
-
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🎨 Frontend Development
 
-### 🌐 Full-Stack Web Applications
-Building complete web applications using:
-
-- Node.js
-- Express.js
-- MongoDB
-- EJS
-- JavaScript
-
-### ⚡ Real-Time Applications
-Using Socket.io to create:
-
-- Live chat systems
-- Multiplayer experiences
-- Real-time updates
-- Interactive applications
-
-### 🎨 Responsive Frontend Development
-Creating modern interfaces with:
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Backend Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullit13&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullit13&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-🌐 Portfolio: https://nullit13.github.io/nullit/
-
-💻 GitHub: https://github.com/nullit13
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ---
 
-### "Code. Learn. Build. Repeat."
+## 🛠 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+  🚀 Render • Netlify • GitHub Pages • Socket.io • EJS
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nullit13&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullit13&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nullit13&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/nullit13">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://nullit13.github.io/nullit/">
+    🌍 Portfolio
+  </a>
+
+  <a href="https://x.com/YOUR_X_USERNAME">
+    𝕏 X (Twitter)
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Build. Break. Learn. Repeat."
+
+</div>
