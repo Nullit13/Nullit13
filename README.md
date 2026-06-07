@@ -10,9 +10,9 @@ Building modern web applications with React, Node.js, and MongoDB.
 
 ## 🚀 About Me
 
-I'm a self-taught developer who enjoys building websites, full-stack applications, and real-time projects. I like turning ideas into working products and continuously improving my skills by creating new projects and experimenting with different technologies.
+I'm a full-stack developer who enjoys building websites, web applications, and real-time experiences. I love taking ideas from concept to deployment and continuously improving my skills by creating projects and learning new technologies.
 
-Most of my work revolves around JavaScript, React, Node.js, Express, and MongoDB, but I'm also comfortable working with Python and C++. Whether it's designing a frontend, building an API, or deploying an application, I enjoy the entire development process.
+My main stack revolves around JavaScript, React, Node.js, Express, and MongoDB, but I also work with Python and C++. Whether I'm designing a frontend, building APIs, managing databases, or deploying applications, I enjoy every part of the development process.
 
 ---
 
@@ -56,30 +56,31 @@ Most of my work revolves around JavaScript, React, Node.js, Express, and MongoDB
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullit13\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullit13\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://nullit13.github.io/nullit/)
+<p>
+  <a href="https://nullit13.github.io/nullit/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/nullit13)
+  <a href="https://github.com/nullit13">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x)](https://x.com/YOUR_USERNAME)
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Building better full-stack applications
-* Improving React and backend architecture skills
+* Building full-stack applications
+* Improving React skills
 * Creating real-world projects
-* Learning new technologies and development practices
+* Learning new technologies
+* Writing cleaner and more scalable code
 
 ---
 
