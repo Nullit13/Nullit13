@@ -1,58 +1,52 @@
-<h1 align="center">Adam Abed</h1>
+# Hey, I'm Adam 👋
+
+### Full-Stack Developer
+
+Building modern web applications with **React, Node.js, and MongoDB.**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=22\&pause=1200\&color=58A6FF\&width=700\&lines=Building+full-stack+web+applications;Creating+real-time+apps+with+Socket.io;Turning+ideas+into+reality;Learning+something+new+every+day)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
+
+I'm a full-stack developer who enjoys building websites, web applications, and real-time experiences. I like taking ideas from concept to something that actually works.
+
+My main stack is **JavaScript, React, Node.js, Express, and MongoDB**, but I also work with **Python and C++** for different projects.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <strong>Full-Stack Developer</strong>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,html,css,bootstrap,nodejs,express,socketio,mongodb,git,github,render,netlify" height="38">
 </p>
 
-<p align="center">
-  I build web applications, real-time systems, and software projects.
-</p>
+---
 
-<p align="center">
-  <a href="https://nullit13.github.io/nullit/">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Nullit13">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/Nullit_">X</a>
-</p>
+## 🎯 Current Focus
 
-<br>
+* Building full-stack applications
+* Improving my React and backend skills
+* Creating real-world projects
+* Learning new technologies
+* Writing cleaner and more scalable code
 
-<h2>Technology</h2>
+---
+
+## 🌐 Connect
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,socketio,html,css,git,github,netlify" height="48">
+  <a href="https://nullit13.github.io/nullit/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://x.com/Nullit_">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
+  </a>
 </p>
 
-<br>
-
-<h2>Selected Work</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>WinRaider</h3>
-      <p>Windows security research and learning project built with Python.</p>
-      <a href="https://github.com/Nullit13/winraider">View repository →</a>
-    </td>
-    <td width="50%">
-      <h3>Web Projects</h3>
-      <p>Full-stack applications built with React, Node.js, Express, and MongoDB.</p>
-      <a href="https://github.com/Nullit13?tab=repositories">View repositories →</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2>Focus</h2>
-
-<p>
-  Full-stack development · Backend systems · Real-time applications · Developer tools
-</p>
-
-<br>
+---
 
 <p align="center">
-  <sub>Building things, learning along the way.</sub>
+  <sub>Build. Break. Learn. Repeat.</sub>
 </p>
