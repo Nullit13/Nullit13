@@ -1,125 +1,58 @@
-<h1 align="center">Hey, I'm Adam 👋</h1>
-
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Adam Abed</h1>
 
 <p align="center">
-  I build web applications, real-time experiences, and projects that turn ideas into working software.
+  <strong>Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  <a href="https://nullit13.github.io/nullit/">🌐 Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Nullit13">💻 GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://x.com/Nullit_">𝕏 X</a>
+  I build web applications, real-time systems, and software projects.
+</p>
+
+<p align="center">
+  <a href="https://nullit13.github.io/nullit/">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Nullit13">GitHub</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/Nullit_">X</a>
 </p>
 
 <br>
 
-<h2>⚡ About Me</h2>
-
-I'm a full-stack developer focused mainly on **JavaScript, React, Node.js, Express, and MongoDB**.
-
-I also work with **Python and C++**, especially when a project calls for something outside my usual web stack.
-
-I learn by building — making projects, solving problems, and improving as I go.
-
-<br>
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>Languages</h3>
+<h2>Technology</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" height="45">
-</p>
-
-<h3>Frontend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" height="45">
-</p>
-
-<h3>Backend & Database</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,mongodb" height="45">
-</p>
-
-<h3>Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify" height="45">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,socketio,html,css,git,github,netlify" height="48">
 </p>
 
 <br>
 
-<h2>🚀 What I Build</h2>
+<h2>Selected Work</h2>
 
 <table>
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Apps
-
-Web applications with modern frontend and backend technologies.
-
-</td>
-<td width="50%">
-
-### ⚡ Real-Time Projects
-
-Applications using technologies like Socket.io for live communication.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔧 Developer Tools
-
-Projects built to solve problems or experiment with new ideas.
-
-</td>
-<td width="50%">
-
-### 🧪 Experiments
-
-Small projects where I learn, test, break, and improve things.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>WinRaider</h3>
+      <p>Windows security research and learning project built with Python.</p>
+      <a href="https://github.com/Nullit13/winraider">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>Web Projects</h3>
+      <p>Full-stack applications built with React, Node.js, Express, and MongoDB.</p>
+      <a href="https://github.com/Nullit13?tab=repositories">View repositories →</a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<h2>🎯 Currently</h2>
-
-🔹 Building full-stack applications
-🔹 Improving my React & backend skills
-🔹 Learning through real projects
-🔹 Exploring new technologies
-
-<br>
-
-<h2>📌 Featured Projects</h2>
+<h2>Focus</h2>
 
 <p>
-  Check out my pinned repositories below to see what I've been building.
-</p>
-
-<br>
-
-<h2>⚡ My Approach</h2>
-
-<h3 align="center">Build → Break → Learn → Improve</h3>
-
-<p align="center">
-  I don't just want to learn technologies. I want to build things with them.
+  Full-stack development · Backend systems · Real-time applications · Developer tools
 </p>
 
 <br>
 
 <p align="center">
-  <b>Thanks for stopping by 👋</b>
+  <sub>Building things, learning along the way.</sub>
 </p>
